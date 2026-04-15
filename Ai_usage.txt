@@ -1,0 +1,28 @@
+AI Usage Description:
+
+AI tools (such as ChatGPT) were used in a limited and guided manner to assist in development. The following areas involved AI assistance:
+
+1. Understanding Concepts:
+AI helped in understanding API integration, offline data handling, and repository pattern structure.
+
+2. UI and Flutter Components:
+Some UI layout ideas and widget structuring were inspired using AI suggestions.
+
+3. Debugging:
+AI was used to identify and fix common issues such as:
+- API response parsing
+- JSON handling
+- Flutter widget errors
+- Git and project setup issues
+
+4. Code Optimization:
+AI provided suggestions for improving code readability and structure, which were manually reviewed and modified.
+
+5. Learning Support:
+AI acted as a learning assistant for understanding:
+- Google Maps integration
+- Location services
+- SQLite database usage
+
+Important Note:
+All final code was written, modified, and tested by the student. AI was only used as a supportive tool for guidance and learning, not for copying complete solutions.
